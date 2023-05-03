@@ -1,5 +1,5 @@
-/* Melike Kurt 20120205009 
-   Murat Alpöz 20120205008 	
+/* Melike Kurt 
+   Murat Alpöz 
 
    chatgptden faydalandığımız kısımları yorum satırlarında belirttik.
    tüm projeyi beraber yaptık.
